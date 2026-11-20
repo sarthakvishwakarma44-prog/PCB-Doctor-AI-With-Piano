@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "piano")(type "KiCad")(uri "${KIPRJMOD}/piano.kicad_sym")(options "")(descr "Piano controller symbols"))
-)

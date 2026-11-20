@@ -1,8 +1,0 @@
-(footprint "MountingHole_3.2mm_M3" (version 20240108) (generator "pcbnew") (generator_version "8.0") (layer "F.Cu")
-(descr "M3 mounting hole")
-(attr through_hole)
-(property "Reference" "REF**" (at 0 -3.6 0) (layer "F.Fab") (effects (font (size 0.8 0.8) (thickness 0.12))))
-(property "Value" "MountingHole_3.2mm_M3" (at 0 3.6 0) (layer "F.Fab") (effects (font (size 0.8 0.8) (thickness 0.12))))
-(fp_rect (start -2.6 -2.6) (end 2.6 2.6) (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (uuid "6570984d-c139-5fe0-9f2c-bf6c0dcc18ae"))
-(pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers "*.Cu" "*.Mask") (uuid "e15b6eba-1746-5de8-9eab-952c54177bc4"))
-)
