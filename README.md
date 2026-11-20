@@ -33,3 +33,5 @@
 <p><h4>I have less information of KiCad that's why i use google mean they guide me that how to work and i am doing like that. All the PCB's design i have done under the guidance of Google. And for code i have also write it under the guidance of Google.</h4></p>
 <br><p><h4>This is work like when we put the PCB in the stand then the camera detect and make imaginary Software PCB and they will done there DRC and ERC in there software and tell the fault in the design of PCB's.</h4></p>
 <br><p><h4>And then there is automatic playable piano which was able to play any song automatic without pressing any key by our hands. And we will add SD card to Play any song in it.</h4></p>
+<hr>
+<p>One more important thing was that i have no 3D printer but my friend live in Honk Kong have this, so my friend will be order all the PCB's in there place and they will also build it there.</p>
