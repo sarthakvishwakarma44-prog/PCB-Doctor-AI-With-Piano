@@ -9,3 +9,5 @@
   <li>A piano which plays automatic.</li>
 </ul>
 <hr>
+<p><h4>And there is it's source image.-</h4></p>
+<img width="830" height="638" alt="Screenshot 2026-11-19 131453" src="https://github.com/user-attachments/assets/00c69f4b-412e-435e-ad85-c84183232bbb" />
