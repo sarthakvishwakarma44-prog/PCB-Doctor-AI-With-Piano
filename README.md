@@ -28,7 +28,5 @@
 <img width="637" height="743" alt="Screenshot 2026-11-12 071716" src="https://github.com/user-attachments/assets/5dbf6009-91b9-421a-8d20-a4dbd111007d" />
 <hr>
 <h3>Main Structure</h3>
-
-
-
-
+<img width="652" height="722" alt="Screenshot 2026-11-20 083136" src="https://github.com/user-attachments/assets/16d58c41-8b95-4e93-b514-d980e3095028" />
+<hr>
